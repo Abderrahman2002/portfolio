@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../projects js"
+		},
+		{
+			"path": "../../QUIZ js"
+		},
+		{
+			"path": "../../SLIDES JS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "GW0"
+	}
+}
